@@ -1,0 +1,42 @@
+
+html{
+    background: rgba(128, 128, 128, 0.205);
+}
+body{
+    background: rgba(128, 128, 128, 0.205);
+}
+
+h1{
+    text-align: center;
+    background: rgba(128, 128, 128, 0.205);
+    color: black;
+}
+
+p{
+    padding: 15px;
+    text-align: left;
+    font-size:large ;
+}
+
+.moder{
+    text-align: left;
+    color: black;
+    padding: 5px;
+    margin-top: 65px;
+    
+    
+}
+
+.aud{
+
+    text-align: center;
+    margin-right: 30px;
+}
+
+.audi{
+    margin-top: 20px;
+}
+
+.hei{
+    height: 150%;
+}
